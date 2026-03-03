@@ -22,16 +22,6 @@
 * 🏗️ **Builder** - Focused on scalable React applications and AI-driven automation [cite: 2026-01-20].
 * 🌍 **Polyglot** - Fluent in Arabic, Hebrew, and professional English [cite: 2026-01-20].
 
----
-
-### 📈 GitHub Metrics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ragadag621&show_icons=true&theme=transparent&hide_border=true&title_color=000&icon_color=000&text_color=333" alt="Raghad's Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragadag621&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=333" alt="Top Languages" />
-</p>
 
 ---
 
